@@ -19,8 +19,8 @@ feature_names = [
 ]
 
 # UI Setup
-st.title("Lung Cancer Prediction System")
-st.write("Enter patient details below to assess the likelihood of lung cancer based on the trained Logistic Regression model.")
+st.title("Lung Cancer Prediction System 🫁")
+st.write("Enter patient details below to assess the likelihood of lung cancer based on the trained Logistic Regression model.📄")
 
 # Create input fields
 col1, col2 = st.columns(2)
