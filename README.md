@@ -1,9 +1,6 @@
 # 🫁 Lung Cancer Detection using Machine Learning
 
-> 🗓️ This repository contains Week 2 submission for AICTE Internship — focusing on Machine Learning model training.
-
-
-This project aims to detect the likelihood of **lung cancer** in individuals based on various health and lifestyle parameters such as smoking habits, anxiety, fatigue, and chest pain.
+>📁 This project aims to detect the likelihood of **lung cancer** in individuals based on various health and lifestyle parameters such as smoking habits, anxiety, fatigue, and chest pain — focusing on Machine Learning model training.
 
 ---
 
