@@ -45,5 +45,5 @@ python train_model.py
 👩‍💻 Author
 
 Shreyas.ms
-Second-Year Computer Engineering Student
+Second-Year Computer Science Student
 JSS Pre-University college in Banglore
