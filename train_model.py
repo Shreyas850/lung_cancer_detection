@@ -1,5 +1,5 @@
 # Lung Cancer Detection - Machine Learning Model Training
-# Author: Panchami Hegde
+# Author: Shreyas ms
 
 # Import libraries
 import pandas as pd
